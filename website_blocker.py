@@ -1,9 +1,7 @@
-#Change to .pyw /script will run in background/
-#Task Scheduler/Create Task/
 import time
 from datetime import datetime as dt
 
-hosts_temp = "hosts"
+#hosts_temp = "hosts"
 hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
 redirect = "127.0.0.1"
 website_list = ["",""]
